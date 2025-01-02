@@ -3,3 +3,5 @@ avsxappcaptiveportal.com
 clientconfig.akamai.steamstatic.com
 akamai.steamstatic.com
 *.applovin.com
+extension.femetrics.grammarly.io
+femetrics.grammarly.io
