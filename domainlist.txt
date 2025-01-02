@@ -2,3 +2,4 @@ s0.2mdn.net
 avsxappcaptiveportal.com
 clientconfig.akamai.steamstatic.com
 akamai.steamstatic.com
+*.applovin.com
