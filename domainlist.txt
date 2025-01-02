@@ -5,3 +5,7 @@ akamai.steamstatic.com
 *.applovin.com
 extension.femetrics.grammarly.io
 femetrics.grammarly.io
+prod-mediate-events.applovin.com
+ms4.applovin.com
+rt.applovin.com
+img.applovin.com
