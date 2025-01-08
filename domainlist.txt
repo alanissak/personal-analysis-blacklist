@@ -9,3 +9,11 @@ prod-mediate-events.applovin.com
 ms4.applovin.com
 rt.applovin.com
 img.applovin.com
+c.evidon.com
+evidon.com
+i.liadm.com	
+liadm.com
+e1.emxdgt.com
+emxdgt.com
+match.adsrvr.org
+adsrvr.org
